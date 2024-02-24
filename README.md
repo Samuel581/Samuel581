@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Studying n' looking for a better future<br>🤝 Open to contribute on open source projects<br>🌱 Currently looking for learning about Mobile Programming<br>💬 I'll talk about anything Linux related<br>🎮 Loves to play Fornite and War Thunder
+🔭 Studying n' looking for a better future<br>🤝 Open to contribute on open source projects<br>🌱 Currently looking for learning about Mobile Programming/Fullstack Web Development<br>💬 I'll talk about anything Linux related<br>🎮 Loves to play Fornite and War Thunder
 
 
 ## 🌐 Socials:
