@@ -1,14 +1,38 @@
-# 💫 About Me:
-🔭 Studying n' looking for a better future<br>🤝 Open to contribute on open source projects<br>🌱 Currently looking for learning about Mobile Programming/Fullstack Web Development<br>💬 I'll talk about anything Linux related<br>🎮 Loves to play Fornite and War Thunder
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hey!%20%20I'm%20Samuel%20Ortiz🙂‍↔️&textBg=false&desc=Web%20and%20Android%20Developer"/>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 
-# 📊 GitHub Stats:
-## Contributions and streaks
-![](https://github-readme-streak-stats.herokuapp.com/?user=samuel581&theme=default&hide_border=false)<br/>
-## Most languages on profile
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel581&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👨‍💻 A bit about myself:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+```yaml
+name: Samuel Adonay Ortiz Carballo
+located_in: La Libertad, El Salvador
+education:
+  [
+    "Bachelor's Degree in Computer Engineering",
+  ]
+fields_of_interest:
+  [
+    "Web Development",
+    "Android Development",
+    "DevOps",
+    "IoT",
+    "Linux System Administration"
+  ]
+technical_background: ["Intern - Android Developer"]
+currently_learning: ["AWS", "NextJS"]
+hobbies: ["Gaming', "Photography", "Watch Documentals"]
+```
+
+# 🚀 My Teck Stack:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="45" height="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45" />
+
+
+# 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samuel581&show_icons=true&theme=normal)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel581&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer"/>
+</p>
