@@ -11,18 +11,18 @@ located_in: La Libertad, El Salvador
 education:
   [
     "Bachelor's Degree in Computer Engineering",
+    "High School Diploma in Computer Science"
   ]
 fields_of_interest:
   [
-    "Web Development",
+    "Full-stack Web Development",
     "Android Development",
     "DevOps",
-    "IoT",
     "Linux System Administration"
   ]
 technical_background: ["Intern - Android Developer"]
-currently_learning: ["AWS", "NextJS"]
-hobbies: ["Gaming', "Photography", "Watch Documentals"]
+currently_learning: ["NextJS", "Linux", "System Design"]
+hobbies: ["PC Gaming', "Digital Photography", "Watching Documentals"]
 ```
 
 # 🚀 My Teck Stack:
