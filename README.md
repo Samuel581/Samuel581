@@ -21,7 +21,7 @@ fields_of_interest:
     "Linux System Administration"
   ]
 technical_background: ["Intern - Android Developer"]
-currently_learning: ["NextJS", "Linux", "System Design"]
+currently_learning: ["NextJS", "Compose", "System Design"]
 hobbies: ["PC Gaming', "Digital Photography", "Watching Documentals"]
 ```
 
