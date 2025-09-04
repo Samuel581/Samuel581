@@ -58,8 +58,13 @@ hobbies: ["PC Gaming', "Digital Photography", "Watching Documentals"]
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Podman Badge](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 
-
-
+# ✉️ Where to find me
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel581/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/https_samuel581)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.samuel581/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samuel581)
+[![Dev.to Badge](https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/samuel581)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sml581@proton.me)
 
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samuel581&show_icons=true&theme=normal)
