@@ -50,7 +50,7 @@ hobbies: ["PC Gaming', "Digital Photography", "Watching Documentals"]
 ![Render Badge](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 
-# 🔎 Technologies I have used
+# 🔎 Other technologies I have used
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
